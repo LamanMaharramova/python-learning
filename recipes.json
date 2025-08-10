@@ -1,0 +1,26 @@
+[
+    {
+        "name": "Carrot ckae",
+        "ingredients": [
+            "omg",
+            "carrot",
+            "milk"
+        ]
+    },
+    {
+        "name": "balike ekmek",
+        "ingredients": [
+            "balik",
+            "sogan",
+            "ekmek"
+        ]
+    },
+    {
+        "name": "yulaf",
+        "ingredients": [
+            "yulaf",
+            "sud",
+            "banan"
+        ]
+    }
+]

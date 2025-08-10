@@ -1,0 +1,32 @@
+[
+    {
+        "name": "Carrot cake",
+        "ingredients": [
+            "carrot",
+            "milk",
+            "soda"
+        ]
+    },
+    {
+        "name": "Lemonade",
+        "ingredients": [
+            "Lemon",
+            "ade"
+        ]
+    },
+    {
+        "name": "Cinnamon rolls",
+        "ingredients": [
+            "cinnamon",
+            "rolls"
+        ]
+    },
+    {
+        "name": "bozbash",
+        "ingredients": [
+            "mal eti",
+            "kartof",
+            "onion"
+        ]
+    }
+]
