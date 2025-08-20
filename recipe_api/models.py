@@ -1,6 +1,6 @@
 from pydantic import BaseModel
 
-class Recipes(BaseModel):
+class Recipe(BaseModel):
     name: str
     ingredients: list[str]
 

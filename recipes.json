@@ -22,5 +22,25 @@
             "sud",
             "banan"
         ]
+    },
+    {
+        "name": "chocolate cake",
+        "ingredients": [
+            "chocolate",
+            "flour"
+        ]
+    },
+    {
+        "name": "nut cake",
+        "ingredients": [
+            "nut",
+            "flour"
+        ]
+    },
+    {
+        "name": "some cake",
+        "ingredients": [
+            "string"
+        ]
     }
 ]
